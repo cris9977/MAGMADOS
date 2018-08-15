@@ -1,0 +1,2 @@
+# MAGMADOS
+solo videojuego
