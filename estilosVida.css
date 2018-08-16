@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: arial, verdana;
+}
+
+.contenedor {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+
+.titulo {
+    width: 100%;
+    padding: 15px;
+    text-align: center;
+}
+
+.contenedorTablero {
+    overflow: hidden;
+    margin: 100px auto;
+}
+
+.iniciar {
+    width: auto;
+    padding: 5px;
+    overflow: hidden;
+}
+
+.iniciar p {
+    padding: 10px;
+    width: 50%;
+    float: left;
+    cursor: pointer;
+}
+
+.iniciar p#limpiarTablero {
+    text-align: right;
+}
+
+.contenedor .info {
+    width: 100px;
+    overflow: hidden;
+}
